@@ -1,0 +1,18 @@
+.Reps {
+    text-align: center;
+    color: rgb(206, 141, 0);
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+    border-style: solid;
+    border-color:  rgb(206, 141, 0);
+    width: 30%;
+}
+
+.Reps button {
+    color: rgb(255, 255, 255);
+}
